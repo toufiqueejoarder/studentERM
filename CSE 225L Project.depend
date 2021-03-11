@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1523019459 source:c:\users\nargis akhter\desktop\north south university\spring 2018\cse 225\cse 225 lab\cse 225l project\main.cpp
+	<iostream>
+	<math.h>
+	<windows.h>
+	<ctime>
+	<iomanip>
+	<limits>
+	<conio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1522260421 c:\users\nargis akhter\desktop\north south university\spring 2018\cse 225\cse 225 lab\cse 225l project\variables.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<iomanip>
+	<windows.h>
+	<dos.h>
+	<conio.h>
+	<cstdio>
+
+1523568741 source:c:\users\nargis akhter\desktop\north south university\spring 2018\cse 225\cse 225l project latest\main.cpp
+	"Source.cpp"
+
+1523569596 c:\users\nargis akhter\desktop\north south university\spring 2018\cse 225\cse 225l project latest\source.cpp
+	<iostream>
+	<math.h>
+	<windows.h>
+	<ctime>
+	<iomanip>
+	<limits>
+	<conio.h>
+	<stdlib.h>
+	<ctype.h>
+	<cstdlib>
+
+1523568997 c:\users\nargis akhter\desktop\north south university\spring 2018\cse 225\cse 225l project latest\variables.h
+	<iostream>
+	<math.h>
+	<windows.h>
+	<ctime>
+	<iomanip>
+	<limits>
+	<conio.h>
+	<stdlib.h>
+	<ctype.h>
+	<cstdlib>
+
+1523569596 source:c:\users\nargis akhter\desktop\north south university\spring 2018\cse 225\cse 225l project latest\source.cpp
+	<iostream>
+	<math.h>
+	<windows.h>
+	<ctime>
+	<iomanip>
+	<limits>
+	<conio.h>
+	<stdlib.h>
+	<ctype.h>
+	<cstdlib>
+
